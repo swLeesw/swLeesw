@@ -31,5 +31,6 @@
 </div>
 <br/>
 <div align="center">
-  👀<a href="https://gamy-gem-8f7.notion.site/Spring-ebeb135d0851436e84e2fe167dac5bc8?pvs=74">Spring Study Notion Page</a>👀
+  <h2>Study</h3>
+  <h3>👀<a href="https://gamy-gem-8f7.notion.site/Spring-ebeb135d0851436e84e2fe167dac5bc8?pvs=74">Spring Study</a>👀</h2>
 </div>
